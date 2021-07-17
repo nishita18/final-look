@@ -1,0 +1,24 @@
+#myCarousel img {
+    height: 300px;
+}
+body{
+    text-align: center;
+background-image: url("50916630-fresh-kale-and-vegetables-ingredients-for-healthy-cooking-on-white-wooden-background-top-view-banner%20(1).jpg");
+       
+    background-repeat: no-repeat;
+   
+    text-decoration: none;
+    color: darkgreen; 
+}
+.img2{
+    height: 300px;
+    width: 300px;
+}
+.top{
+    
+}
+.details{
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+}
